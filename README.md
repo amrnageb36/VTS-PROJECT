@@ -52,5 +52,7 @@ Traditionally, vacation approvals involved multiple layers of manual work—mana
 ---
 
 ## Sequence diagram for Manage time use case
-![Vacation Tracking System Diagram](sequence diagram.png) 
+
+![Sequence Diagram](https://github.com/amrnageb36/VTS-PROJECT/blob/main/images/sequenceDiagram.png?raw=true)
+ 
 
