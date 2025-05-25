@@ -115,5 +115,9 @@ herself, or simply leave the VTS application
  
 ## ERD diagram for Manage time use case
 
-![Sequence Diagram](https://github.com/amrnageb36/VTS-PROJECT/blob/main/images/ERD_diagram.png?raw=true)
+![ERD Diagram](https://github.com/amrnageb36/VTS-PROJECT/blob/main/images/ERD_diagram.png?raw=true)
+
+## flow chart for Manage time use case
+
+![ERD Diagram](https://github.com/amrnageb36/VTS-PROJECT/blob/main/images/flowchart.png?raw=true)
  
