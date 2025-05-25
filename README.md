@@ -55,4 +55,7 @@ Traditionally, vacation approvals involved multiple layers of manual work—mana
 
 ![Sequence Diagram](https://github.com/amrnageb36/VTS-PROJECT/blob/main/images/sequenceDiagram.png?raw=true)
  
+## ERD diagram for Manage time use case
 
+![Sequence Diagram](https://github.com/amrnageb36/VTS-PROJECT/blob/main/images/ERD_diagram.png?raw=true)
+ 
